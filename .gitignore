@@ -1,5 +1,5 @@
 # Ignore sensitive config
-config/config.php
+config/db.php
 .env
 
 # Ignore uploads (user data)
