@@ -1,0 +1,17 @@
+# Ignore sensitive config
+config/config.php
+.env
+
+# Ignore uploads (user data)
+uploads/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
